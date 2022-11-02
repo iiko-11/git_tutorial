@@ -11,3 +11,11 @@ personal access tokens(classic)
 ⚠️アクセストークンをコピーして、ローカルに保存しておくことを忘れない
 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
 
+git fetch origin
+
+##branchを見る、切り替える
+git branch -a
+git checkout remotes/origin/main
+git checkout main
+##
+git merge origin/main
