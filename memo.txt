@@ -9,3 +9,5 @@ developer settings
 personal access tokens(classic)
 名前は適当(例 admin) 全てにチェック入れる
 ⚠️アクセストークンをコピーして、ローカルに保存しておくことを忘れない
+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
+
