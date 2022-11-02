@@ -19,3 +19,6 @@ git checkout remotes/origin/main
 git checkout main
 ##
 git merge origin/main
+
+branch 切り替え git checkout
+
