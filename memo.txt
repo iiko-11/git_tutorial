@@ -4,3 +4,8 @@ git cloneで.gitリポジトリを作成可能、作業を開始できる
 
 
 
+settings
+developer settings
+personal access tokens(classic)
+名前は適当(例 admin) 全てにチェック入れる
+⚠️アクセストークンをコピーして、ローカルに保存しておくことを忘れない
